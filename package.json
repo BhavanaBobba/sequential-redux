@@ -50,7 +50,7 @@
         "less": "~2.7.1",
         "less-middleware": "~2.1.0",
         "mocha": "~2.5.3",
-        "moment": "~2.13.0",
+        "moment": "~2.19.3",
         "piping": "~0.3.0",
         "react": "~15.1.0",
         "react-dom": "~15.1.0",
